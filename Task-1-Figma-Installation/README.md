@@ -12,10 +12,6 @@ This task is about installing Figma, a tool used to design user interfaces and u
 4. Installed the app
 5. Opened Figma and created a new design file
 
-## Screenshots:
-
-### ✅ Figma Installed and Open:
-![Step 1](./screenshots/figma-install-complete.png)
 
 ## Task Completed ✔️
 Figma is installed and ready to use for upcoming design tasks.
