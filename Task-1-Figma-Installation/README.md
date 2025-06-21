@@ -20,9 +20,7 @@ This task is about installing **Figma**, a tool used to design user interfaces a
 
 Here is a screenshot of Figma after installation:
 
-![Figma Installed](./Task%201.jpg)
-
-> 🔸 Make sure the file is named exactly `Task 1.jpg` and is placed in the same folder as this `README.md`
+![Figma Installed](./Task-1.png)
 
 ---
 
