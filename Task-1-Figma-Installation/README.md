@@ -1,10 +1,12 @@
 # Task 1: Figma Installation
 
-## What is this task?
+## 📌 What is this task?
 
-This task is about installing Figma, a tool used to design user interfaces and user experiences (UI/UX).
+This task is about installing **Figma**, a tool used to design user interfaces and user experiences (UI/UX).
 
-## Steps I followed:
+---
+
+## 🛠️ Steps I Followed
 
 1. Went to [figma.com](https://www.figma.com/)
 2. Signed up with my email (created a free account)
@@ -12,7 +14,18 @@ This task is about installing Figma, a tool used to design user interfaces and u
 4. Installed the app
 5. Opened Figma and created a new design file
 
+---
 
-## Task Completed ✔️
+## 📸 Screenshot
+
+Here is a screenshot of Figma after installation:
+
+![Figma Installed](./Task%201.jpg)
+
+> 🔸 Make sure the file is named exactly `Task 1.jpg` and is placed in the same folder as this `README.md`
+
+---
+
+## ✅ Task Completed
+
 Figma is installed and ready to use for upcoming design tasks.
-
