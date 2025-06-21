@@ -43,7 +43,7 @@ I used [Coolors](https://coolors.co/) to generate this palette:
 ## 🖼️ Final Design
 
 The redesigned screen with this color palette is included in the ZIP file:
-- **`Design 1.zip`**
+- **`Design 1.jpg`**
 
 📎 You can extract and view the Figma exports or `.fig` file from the ZIP.
 
